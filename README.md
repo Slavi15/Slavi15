@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JS Full Stack Development
 - 👯 I’m looking to collaborate to open source projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to swim
+- ⚡ Fun fact: I love swimming and playing chess
 
 <br />
 
