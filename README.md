@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.slavi15.vercel.app/api/spotify-playing" alt="Slavi15 Spotify Playing" width="350" />](https://open.spotify.com/user/v1l0vnsllf4q8ex8w8sdafy85)
+[![Spotify](https://novatorem.slavi15.vercel.app/api/spotify)](https://open.spotify.com/user/v1l0vnsllf4q8ex8w8sdafy85)
 
 <br />
 
