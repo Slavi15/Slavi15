@@ -12,6 +12,8 @@
 
 ### Spotify Playing 🎧
 
+[<img src="https://novatorem.slavi15.vercel.app/api/spotify" alt="Slavi15 Spotify Playing" width="350" />]
+
 <br />
 
 ### Languages and tools:
