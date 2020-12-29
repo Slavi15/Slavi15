@@ -1,6 +1,6 @@
 ### Hi there, I'm Slavi 👋
 
-## I'm a student who loves coding and trying new stuff
+## I'm a student who loves coding and technology
 
 - 🔭 I’m currently working on interesting projects
 - 🌱 I’m currently learning JS Full Stack Development
