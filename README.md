@@ -1,11 +1,10 @@
-### Hi there, I'm Slavi 👋
+### Hi there, I'm Slavi Rezashki 👋
 
-## I'm a student who loves coding and technology
+## I'm a Mathematics and Physics High-School Graduate
 
 - 🔭 I’m currently working on interesting projects
 - 🌱 I’m currently learning JS Full Stack Development
-- 👯 I’m looking to collaborate to open source projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate to open-source projects
 - ⚡ Fun fact: I love swimming and playing chess
 
 <br />
