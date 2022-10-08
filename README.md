@@ -45,6 +45,7 @@
 #### Unit Testing and Error Handling
 
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/chai-323330?style=for-the-badge&logo=chai&color=e9ce99&logoColor=a40802&textColor=white)
 
 #### Styling
 
