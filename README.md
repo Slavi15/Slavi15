@@ -1,10 +1,10 @@
 ### Hi there, I'm Slavi Rezashki 👋
 
-## I'm a Full-Stack Web Developer
+## I'm a Software Developer
 
 - 🔭 Currently working on interesting projects
 - 🌱 Algorithms Geek
-- 📖 Mathematics and Physics High-School Student
+- 📖 Student at Sofia University "St. Kliment Ohridski"
 - 📫 You can reach me out on: slavirezashkiofficial@gmail.com
 
 <br />
