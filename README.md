@@ -1,28 +1,31 @@
-### Hi there, I'm Slavi Rezashki 👋
+## Hi there, I'm Slavi Rezashki 👋
 
-## I'm a Software Developer
+### I'm a Software Developer
 
 - 🔭 Currently working on interesting projects
 - 🌱 Algorithms Geek
 - 📖 Student at Sofia University "St. Kliment Ohridski"
 - 📫 You can reach me out on: slavirezashkiofficial@gmail.com
 
-<br />
-
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Slavi15&theme=onedark)](https://git.io/streak-stats)
-
-<br />
+<p align="center">
+  <a href="https://github.com/Slavi15">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Slavi15&theme=vue-dark&hide_border=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Slavi15&layout=compact&langs_count=12&theme=vue-dark&card_width=450"/>
+  </a>
+</p>
 
 ## Technical Skills
 
 #### Programming Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 #### Front-End Frameworks
 
