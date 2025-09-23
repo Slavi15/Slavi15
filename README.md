@@ -1,11 +1,13 @@
 ## Hi there, I'm Slavi Rezashki 👋
 
-### I'm a Software Developer
+### I'm a Software Engineer
 
-- 🔭 Currently working on interesting projects
-- 🌱 Algorithms Geek
-- 📖 Student at Sofia University "St. Kliment Ohridski"
-- 📫 You can reach me out on: slavirezashkiofficial@gmail.com
+📖 Student at Sofia University "St. Kliment Ohridski"
+
+- ⚙️ Hands-on experience with low-level systems programming, deeply optimized for hardware up to the last CPU cycle
+- 🐧 Strong UNIX knowledge
+- 🌱 Constantly exploring topics like algorithms, OS concepts, performance tuning and efficient code design
+- 🧠 Enthusiast in multiple programming paradigms from low-level systems programming through functional programming to OOP
 
 ## GitHub Stats
 
@@ -21,11 +23,14 @@
 #### Programming Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-22228f?style=for-the-badge&logo=racket&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### Front-End Frameworks
 
@@ -39,6 +44,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Unit Testing and Error Handling
 
