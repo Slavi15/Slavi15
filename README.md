@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="https://github.com/Slavi15">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Slavi15&theme=vue-dark&hide_border=true">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Slavi15&layout=compact&langs_count=12&theme=vue-dark&hide_border=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Slavi15&include_orgs=true&theme=vue-dark&hide_border=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Slavi15&include_orgs=true&layout=compact&langs_count=12&theme=vue-dark&hide_border=true"/>
   </a>
 </p>
 
